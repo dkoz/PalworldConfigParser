@@ -91,6 +91,7 @@ envVars = {
     "bCharacterRecreateInHardcore": "CHARACTER_RECREATE_IN_HARDCORE",
     "EquipmentDurabilityDamageRate": "EQUIPMENT_DURABILITY_DAMAGE_RATE",
     "ItemContainerForceMarkDirtyInterval": "ITEM_CONTAINER_FORCE_MARK_DIRTY_INTERVAL",
+    "ItemCorruptionMultiplier": "ITEM_CORRUPTION_MULTIPLIER",
     "CrossplayPlatforms": "CROSSPLAY_PLATFORMS",
     "PublicIP": getIPAddressKey(),
 }
@@ -185,6 +186,7 @@ envVarsValidationRules = {
     "bCharacterRecreateInHardcore": "TrueFalse",
     "EquipmentDurabilityDamageRate": "Floating",
     "ItemContainerForceMarkDirtyInterval": "Floating",
+    "ItemCorruptionMultiplier": "Floating",
     "CrossplayPlatforms": "String",
 }
 
